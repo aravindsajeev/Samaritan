@@ -5,7 +5,7 @@ Samaritan
 Technologies:
 * HTML
 * CSS
-* JS
+* JAVA
 
 Original author:
 Rodrigo Graça
