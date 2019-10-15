@@ -5,14 +5,14 @@ Samaritan
 Technologies:
 * HTML
 * CSS
-* JS
+* JAVA
 
 Original author:
 Rodrigo Graça
 
 Modifications by:
 <br />
-johneynoyal
+aravindsajeev
 Jeiel Aranal [@chemikhazi](http://twitter.com/chemikhazi)
 <br />
 Alexandru Simandi
